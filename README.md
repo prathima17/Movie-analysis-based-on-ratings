@@ -1,5 +1,16 @@
 # Movie-analysis-based-on-ratings
 
+## Table Of Contents
+
+ - [Project Overview](#Project-Overview)
+ - [Data Sources](#Data-Sources)
+ - [Tools](#Tools)
+ - [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
+ - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+ - [The Results/Findings](#The-Results/Findings)
+ - [Recommendations](#Recommendations)
+ - [Limitations](#Limitations)
+
 ### Project Overview
 
 This project dashboard offers a detailed, data-driven view of movie ratings, highlighting genre popularity, user engagement, and tagging behavior. Drama and Comedy dominate both in ratings and tags, while user activity and tagging trends provide insights into how movies are consumed and categorized over time. The comprehensive metrics and visualizations support in-depth analysis for stakeholders interested in movie trends, user preferences, and metadata utilization
@@ -37,15 +48,16 @@ The analysis results are summarized ss follows:
 •	Average ratings per movie across genres are generally in the range of 3.1 to 3.2, suggesting user ratings are moderately positive.
 •	The number of unique tags per movie is high (28K), reflecting diverse user perspectives and tagging behavior
 
-Recommendations
-Based on the analysis, we recommend the following actions:
-•	Focus on popular genres
-•	Leverage highly tagged movies
-•	User engagement insights
-•	Monitor trends over time
-•	Optimize tagging 
+### Recommendations
 
-Limitations
+Based on the analysis, we recommend the following actions:
+-	Focus on popular genres
+-	Leverage highly tagged movies
+-	User engagement insights
+-	Monitor trends over time
+-	Optimize tagging 
+
+### Limitations
 I had to remove all blank and errors because they would have affected the accuracy of my conclusions from the analysis
 
 
